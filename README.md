@@ -1,3 +1,6 @@
+<!-- Banner animado no topo -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:e61c9b,100:10002B"/>
+
 # 💜 Olá, eu sou a Vitoria!
 
 <p align="left">
@@ -54,3 +57,8 @@ Atualmente moro na região de Minas Gerais, e acredito que a colaboração e o a
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
+
+
+<!-- Banner animado no rodapé -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
