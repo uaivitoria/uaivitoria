@@ -14,7 +14,7 @@
 - 🎓 Estudante de Sistemas de Informação no COTEMIG (4º período)  
 - 💻 Estagiária fullstack, trabalhando no desenvolvimento de projetos reais  
 - 📚 Em constante aprendizado e explorando novas tecnologias e práticas de desenvolvimento  
-- 🌱 Interesses: cibersegurança, data science, inteligência artificial e crescimento profissional  
+- 🌱 Interesses: cybersecurity, data science, inteligência artificial e crescimento profissional  
 - 📍 Baseada em Minas Gerais, Brasil
 
 ## 💻 Tecnologias e ferramentas
