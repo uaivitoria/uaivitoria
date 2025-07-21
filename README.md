@@ -1,6 +1,5 @@
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:e61c9b,100:10002B"/>
-# 💜 Olá, eu sou a Vitoria!
+<h1>💜 Olá, eu sou a Vitoria!</h1>
 
 <p align="left">
   Estudante de <strong>Sistemas de Informação</strong> pelo Cotemig (4º período).<br>
@@ -10,21 +9,26 @@
 
 ---
 
-## Tecnologias e Ferramentas 💻
+# Sobre mim
 
-### Linguagens
+- 🎓 Estudante de Sistemas de Informação no COTEMIG (4º período)  
+- 💻 Estagiária fullstack, trabalhando no desenvolvimento de projetos reais  
+- 📚 Em constante aprendizado e explorando novas tecnologias e práticas de desenvolvimento  
+- 🌱 Interesses: cibersegurança, data science, inteligência artificial e crescimento profissional  
+- 📍 Baseada em Minas Gerais, Brasil
 
-[![Languages](https://skillicons.dev/icons?i=ts,csharp,html,css,sql,cs)](https://skillicons.dev)
+## 💻 Tecnologias e ferramentas
 
-### Frameworks e Bibliotecas
+### 📌 Linguagens
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,cs)](https://skillicons.dev)
 
-[![Frameworks](https://skillicons.dev/icons?i=angular,dotnet)](https://skillicons.dev)
+### 🚀 Frameworks e bibliotecas
+[![My Skills](https://skillicons.dev/icons?i=angular,react,dotnet)](https://skillicons.dev)
 
-### Ferramentas
+### 🛠️ Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
-
-## Sobre mim
+---
 
 Atuo como estagiária fullstack, desenvolvendo soluções que conectam front-end e back-end, enquanto aprimoro minhas habilidades técnicas e de comunicação. Sou estudante do 4º período de Sistemas de Informação na Faculdade Cotemig, com previsão de formatura para dezembro de 2027.
 
@@ -36,19 +40,20 @@ Atualmente moro na região de Minas Gerais, e acredito que a colaboração e o a
 
 
 ## ⭐ GitHub Stats
-
+<div align="center">
 <a href="https://github.com/uaivitoria">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=uaivitoria&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uaivitoria&layout=compact&langs_count=6&theme=radical"/>
 </a>
+</div>
 
----
+#
 
-<p align="left">
+<p align="center">
   Vamos nos conectar?  
 </p>
 
-<p align="left">
+<p align="center">
   <a href="mailto:uaivitoria.si@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -57,6 +62,11 @@ Atualmente moro na região de Minas Gerais, e acredito que a colaboração e o a
   </a>
 </p>
 
+<div align="center">
+  
+  [![Vitoria Campos's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uaivitoria&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  
 
 
 
